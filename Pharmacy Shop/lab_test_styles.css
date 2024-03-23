@@ -64,11 +64,11 @@ p{
     display: inline-block;
     font-size: 20px;
     border: none;
-    border-radius: 20px; /* Adjust the value as needed for softer or sharper corners */
+    border-radius: 20px; 
     cursor: pointer;
-    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+    transition: background-color 0.3s ease; 
 }
 
 .button:hover {
-    background-color: rgb(102, 27, 156); /* Darker shade for hover effect */
+    background-color: rgb(102, 27, 156); 
 }
