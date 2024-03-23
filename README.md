@@ -38,4 +38,11 @@ To access the website, simply open the `home.html` file in a web browser.
 
 To test the form, access the `lab_test.html` file or click the navigation bar link in the `home.html` page labelled as 'Lab Test'.
 
-Thank you for exploring the Pharmacy Website Project! We trust you'll find it both professional and user-friendly, showcasing the latest technologies and design practices in web development.
+## Demo
+[Link to Video Demo](https://drive.google.com/file/d/1uJsntn3ohJ5ITS6h9r7-qPEj1tpi5zOP/view?usp=drive_link)
+
+## Contributors
+- [Anmol James Pilley](https://github.com/anmoljamespilley) & Group
+
+## Thank you
+for exploring the Pharmacy Website Project! We trust you'll find it both professional and user-friendly, showcasing the latest technologies and design practices in web development.
