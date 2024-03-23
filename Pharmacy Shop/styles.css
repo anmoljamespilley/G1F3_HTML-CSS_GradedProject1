@@ -34,20 +34,20 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    position: relative; /* Added */
+    position: relative; 
 }
 
 nav ul li a {
     text-decoration: none;
     color: white;
-    padding: 10px 20px; /* Adjusted */
-    display: block; /* Added */
+    padding: 10px 20px; 
+    display: block; 
 }
 
 nav ul ul {
     display: none;
     position: absolute;
-    top: 100%; /* Adjusted */
+    top: 100%; 
     left: 0;
     background-color: #d3cfcf;
     z-index: 1;
@@ -166,5 +166,3 @@ footer {
     }
 }
 
-/* Your existing CSS styles */
-/* Style for arrow buttons */
