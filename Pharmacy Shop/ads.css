@@ -4,7 +4,7 @@
     border: 2px solid steelblue;
     margin: 5px;
     z-index: -1;
-    width: 385; /* Fixed missing unit */
+    width: 385; 
     top: 155px;
 }
 
@@ -71,26 +71,26 @@
 
 @media only screen and (min-width:768px) {
     #ads {
-        height: 300px; /* Increase the height further if needed */
+        height: 300px; 
     }
 
     #ads figure img {
         float: left;
         width: 16.6666%;
-        height: 300px; /* Increase the height further if needed */
+        height: 300px; 
         z-index: -1;
     }
 }
 
 @media only screen and (min-width:1000px) {
     #ads {
-        height: 350px; /* Increase the height further if needed */
+        height: 350px; 
     }
 
     #ads figure img {
         float: left;
         width: 16.6666%;
-        height: 350px; /* Increase the height further if needed */
+        height: 350px; 
         z-index: -1;
     }
 }
